@@ -7,7 +7,7 @@ function App() {
       <h1>First React App</h1>
       <Dogcard />
       <Dogcard />
-      <Dogcard />
+
     </div>
 
   )
